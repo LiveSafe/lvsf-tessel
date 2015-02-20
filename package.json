@@ -1,0 +1,19 @@
+{
+  "name": "lvsf-tessel",
+  "version": "1.0.0",
+  "description": "Tessels mutha fucka",
+  "main": "lib/lvsf-tessel.js",
+  "scripts": {
+    "test": "echo \"no tests womp\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/livesafe/lvsf-tessel.git"
+  },
+  "author": "Spain <spain@livesafemobile.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/livesafe/lvsf-tessel/issues"
+  },
+  "homepage": "https://github.com/livesafe/lvsf-tessel"
+}
