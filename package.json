@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/livesafe/lvsf-tessel",
   "dependencies": {
+    "q": "^1.1.2",
     "servo-pca9685": "^0.1.3",
     "tessel": "^0.3.21"
   }
